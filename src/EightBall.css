@@ -1,8 +1,8 @@
 .EightBall{
     border-radius: 50%;
     color: white;
-    height:175px;
-    width: 175px;
+    height:250px;
+    width: 250px;
     display: flex;
     flex-direction: column;
     justify-content: center;
